@@ -16,8 +16,4 @@
     <ProjectReference Include="..\Domain\AppDomain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Tasks\Queries\" />
-  </ItemGroup>
-
 </Project>
